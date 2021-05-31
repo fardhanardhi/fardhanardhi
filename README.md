@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Nice to see you.
 </h1>
 <h3 align="center">I'm Adan, Frontend developer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="18"> <b>Indonesia</b>.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fardhanardhi" alt="fardhanardhi" /> </p>
+<p align="center"> <a href="https://github.com/fardhanardhi"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfardhanardhi&longCache=true"/></a> <a href="https://github.com/fardhanardhi"><img src="https://komarev.com/ghpvc/?username=fardhanardhi" alt="fardhanardhi" /></a> </p>
 
 I am a freelancing mobile & front-end developer, living in Indonesia. I mostly work with JavaScript (Node.js & React.js), but have also experience with Dart (Flutter), PHP, and others.
 
