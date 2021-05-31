@@ -34,30 +34,33 @@ I am a freelancing mobile & front-end developer, living in Indonesia. I mostly w
 
 <h3>Where to find me 🤙</h3>
 <p><a href="https://github.com/fardhanardhi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/fardhanardhi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/fardhanardhi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
-
 <hr>
-
-<h3 align="center">Stats 📊</h3>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=fardhanardhi&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
-  </a>
+  </a> -->
     <br>
   <br>
+  
+  
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi">
+<!--     &bg_color=0d1117&text_color=FFF&border_color=444 -->
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=fardhanardhi&theme=react">
+<!--     -dark&hide_border=true -->
   </a>
 </p>
 
-<hr>
-
-<h3 align="center">Contribution 📢</h3>
+<!-- <h3 align="center">Contribution 📢</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=fardhanardhi&theme=react&background=0d1117&border=666">
   </a>
   <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=fardhanardhi&theme=react-dark&hide_border=true">
-  </a>
-</p>
+  <br>
+  
+</p> -->
