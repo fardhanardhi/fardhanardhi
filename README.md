@@ -39,20 +39,15 @@ I am a freelancing mobile & front-end developer, living in Indonesia. I mostly w
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=fardhanardhi&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a> -->
-    <br>
-  <br>
-  
-  
-  <br>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi">
-<!--     &bg_color=0d1117&text_color=FFF&border_color=444 -->
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff">
   </a>
   <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=fardhanardhi&theme=react">
-<!--     -dark&hide_border=true -->
-  </a>
+  
+<!--   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=fardhanardhi&theme=react-dark&hide_border=true">
+  </a> -->
 </p>
 
 <!-- <h3 align="center">Contribution 📢</h3>
