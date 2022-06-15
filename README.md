@@ -50,6 +50,9 @@ I am a freelancing mobile & front-end developer, living in Indonesia. I mostly w
   </a> -->
 </p>
 
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 <!-- <h3 align="center">Contribution 📢</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
