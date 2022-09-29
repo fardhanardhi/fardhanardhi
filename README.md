@@ -3,7 +3,7 @@
 <h3 align="center">I'm Adan, Frontend developer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="18"> <b>Indonesia</b>.</h3>
 <p align="center"> <a href="https://github.com/fardhanardhi"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfardhanardhi&longCache=true"/></a> <a href="https://github.com/fardhanardhi"><img src="https://komarev.com/ghpvc/?username=fardhanardhi&label=Visitors" alt="fardhanardhi" /></a> </p>
 
-I am a freelancing mobile & front-end developer, living in Indonesia. I mostly work with JavaScript (Node.js & React.js), but have also experience with Dart (Flutter), PHP, and others.
+Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript (Node.js & React.js), but have also experience with Dart (Flutter), PHP, and others.
 
 <h3>Things I code with 💻</h3>
 <p>
@@ -50,15 +50,7 @@ I am a freelancing mobile & front-end developer, living in Indonesia. I mostly w
   </a> -->
 </p>
 
+<p align="center">No commit == busy IRL</p>
+
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
-<!-- <h3 align="center">Contribution 📢</h3>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=fardhanardhi&theme=react&background=0d1117&border=666">
-  </a>
-  <br>
-  <br>
-  
-</p> -->
