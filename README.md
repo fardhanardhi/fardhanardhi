@@ -50,6 +50,12 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
   </a> -->
 </p>
 
+<p align="center">
+  <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+    <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/6193799?theme=cobalt&website=true&location=true" alt="user:6193799's SO profile">
+  </a>
+</p>
+
 <p align="center">No commit == busy IRL</p>
 
 <p align='center'>
