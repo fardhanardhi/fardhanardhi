@@ -51,8 +51,14 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
 </p>
 
 <p align="center">
-  <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+  <a href="https://stackoverflow.com/users/6193799/adan">
     <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/6193799?theme=cobalt&website=true&location=true" alt="user:6193799's SO profile">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/6193799/adan">
+    <img src="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/flutter/6193799?theme=cobalt" alt="user:6193799's SO ranking for flutter">
   </a>
 </p>
 
