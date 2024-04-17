@@ -41,10 +41,13 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
   </a> -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff&langs_count=3">
   </a>
   <br>
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff&layout=compact">
+  </a>
+  <br>
 <!--   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=fardhanardhi&theme=react-dark&hide_border=true">
   </a> -->
