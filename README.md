@@ -35,17 +35,18 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
 <h3>Where to find me 🤙</h3>
 <p><a href="https://github.com/fardhanardhi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/fardhanardhi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/fardhanardhi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 <hr>
+<h3 align="center">My flight hours</h3>
+<p align="center">By <a href="https://wakatime.com">WakaTime</a></p>
 <p align="center">
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=fardhanardhi&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a> -->
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff&langs_count=3">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff&langs_count=3&hide_title=true">
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff&layout=compact&custom_title=%20Languages%20that%20I've%20ever%20touched">
   </a>
   <br>
 <!--   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
