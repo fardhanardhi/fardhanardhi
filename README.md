@@ -73,3 +73,14 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/fardhanardhi?pet-id=654536500693297659"
+      width="600"
+      height="200"
+    />
+  </a>
+</p>
+  
