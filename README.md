@@ -1,3 +1,5 @@
+  ![Wakatime](./profile/wakatime.svg)
+
 <p align="center"><img src="https://media.tenor.com/images/49e8bbc5b4245a62076c898a713e8a28/tenor.gif" width="150" style="margin-right:100" />                    </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, Nice to see you.</h1>
 <h3 align="center">I'm Adan, Frontend developer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="18"> <b>Indonesia</b>.</h3>
@@ -52,7 +54,6 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff&layout=compact&custom_title=%20Languages%20that%20I've%20ever%20touched">
   </a>
   <br>
-  ![Wakatime](./profile/wakatime.svg)
   <br>
 <!--   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=fardhanardhi&theme=react-dark&hide_border=true">
