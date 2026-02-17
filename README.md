@@ -52,6 +52,8 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff&layout=compact&custom_title=%20Languages%20that%20I've%20ever%20touched">
   </a>
   <br>
+  ![Wakatime](./profile/wakatime.svg)
+  <br>
 <!--   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=fardhanardhi&theme=react-dark&hide_border=true">
   </a> -->
