@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&bg_color=ffffff00&text_color=dedeff&border_color=fff&langs_count=3&hide_title=true
+          options: username=${{ github.repository_owner }}&bg_color=ffffff00&text_color=dedeff&border_color=fff&hide_title=true
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
