@@ -1,4 +1,5 @@
-  ![Wakatime](./profile/wakatime.svg)
+![Wakatime Top 3](./profile/wakatime-top-3.svg)
+![Wakatime All](./profile/wakatime-all.svg)
 
 <p align="center"><img src="https://media.tenor.com/images/49e8bbc5b4245a62076c898a713e8a28/tenor.gif" width="150" style="margin-right:100" />                    </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, Nice to see you.</h1>
