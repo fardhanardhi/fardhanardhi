@@ -1,6 +1,3 @@
-![Wakatime Top 3](./profile/wakatime-top-3.svg)
-![Wakatime All](./profile/wakatime-all.svg)
-
 <p align="center"><img src="https://media.tenor.com/images/49e8bbc5b4245a62076c898a713e8a28/tenor.gif" width="150" style="margin-right:100" />                    </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, Nice to see you.</h1>
 <h3 align="center">I'm Adan, Frontend developer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="18"> <b>Indonesia</b>.</h3>
@@ -47,14 +44,14 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=fardhanardhi&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a> -->
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff&langs_count=3&hide_title=true">
+    <img src="./profile/wakatime-top-3.svg">
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fardhanardhi&bg_color=ffffff00&text_color=dedeff&border_color=fff&layout=compact&custom_title=%20Languages%20that%20I've%20ever%20touched">
+    <img src="./profile/wakatime-all.svg">
   </a>
-  <br>
   <br>
 <!--   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=fardhanardhi&theme=react-dark&hide_border=true">
