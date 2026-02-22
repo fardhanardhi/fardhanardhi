@@ -361,7 +361,7 @@
             y="0"
             width="0.27899999999999997"
             height="8"
-            fill="#858585"
+            fill="#ff5a03"
           />
         
           <rect
@@ -371,7 +371,7 @@
             y="0"
             width="0.27899999999999997"
             height="8"
-            fill="#ff5a03"
+            fill="#858585"
           />
         
           <rect
@@ -787,16 +787,16 @@
     </g>
   
     <g transform="translate(230, 300)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#ff5a03" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Git - 4 hrs 26 mins
+        Astro - 4 hrs 30 mins
       </text>
     </g>
   
     <g transform="translate(25, 325)">
-      <circle cx="5" cy="6" r="5" fill="#ff5a03" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Astro - 4 hrs 25 mins
+        Git - 4 hrs 26 mins
       </text>
     </g>
   
