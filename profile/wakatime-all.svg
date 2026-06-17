@@ -695,7 +695,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 871 hrs 29 mins
+        JavaScript - 871 hrs 32 mins
       </text>
     </g>
   
@@ -786,7 +786,7 @@
     <g transform="translate(25, 200)">
       <circle cx="5" cy="6" r="5" fill="#4298b8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Groovy - 41 hrs 41 mins
+        Groovy - 41 hrs 50 mins
       </text>
     </g>
   
