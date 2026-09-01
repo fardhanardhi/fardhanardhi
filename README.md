@@ -38,6 +38,9 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
   P.S. I also have some gists, <a href="https://gist.github.com/fardhanardhi" target="_blank">here</a> 
 </p>
 <hr>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<hr>
 <h3 align="center">My flight hours</h3>
 <p align="center">By <a href="https://wakatime.com">WakaTime</a></p>
 <p align="center">
@@ -63,38 +66,6 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
     <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/6193799?theme=cobalt&website=true&location=true" alt="user:6193799's SO profile">
   </a>
 </p>
-
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%202%20mins-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 26 hrs 43 mins (82.66%)
-
-✍️ 4,974 lines written by AI, 1,384 lines written by hand (78.23% AI-written)
-
-🔤 9,397,030 Input Tokens, 809,215 Output Tokens
-
-💵 $134.75 Estimated AI Cost This Week
-
-🧠 41 AI Sessions, 457 AI Prompts
-
-Sonnet                   3,399 lines         █████████████████░░░░░░░░   66.99 % 
-Opus                     1,675 lines         ████████░░░░░░░░░░░░░░░░░   33.01 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 78.23% of written lines came from AI
-📚 Verbose Prompter — average 1,637 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 21.77% of changed lines were hand-edited
-```
-
-
- Last Updated on 01/09/2026 04:00:29 UTC
-<!--END_SECTION:waka-->
 
 <p align="center">No commit == busy IRL</p>
 
