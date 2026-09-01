@@ -64,8 +64,9 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
   </a>
 </p>
 
-<!--START_SECTION:SHOW_AI_CODING-->
-<!--END_SECTION:SHOW_AI_CODING-->
+<!--START_SECTION:waka-->
+SHOW_AI_CODING
+<!--END_SECTION:waka-->
 
 <p align="center">No commit == busy IRL</p>
 
