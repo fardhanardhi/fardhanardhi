@@ -38,6 +38,7 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
   P.S. I also have some gists, <a href="https://gist.github.com/fardhanardhi" target="_blank">here</a> 
 </p>
 <hr>
+
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%202%20mins-blue?style=flat)
 
@@ -69,6 +70,7 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
  Last Updated on 01/09/2026 04:05:45 UTC
 <!--END_SECTION:waka-->
+
 <hr>
 <h3 align="center">My flight hours</h3>
 <p align="center">By <a href="https://wakatime.com">WakaTime</a></p>
