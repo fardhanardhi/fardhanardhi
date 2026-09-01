@@ -64,7 +64,7 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
   </a>
 </p>
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:SHOW_AI_CODING-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%2C032%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%202%20mins-blue?style=flat)
@@ -174,7 +174,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
  Last Updated on 01/09/2026 03:00:19 UTC
-<!--END_SECTION:waka-->
+<!--END_SECTION:SHOW_AI_CODING-->
 
 <p align="center">No commit == busy IRL</p>
 
