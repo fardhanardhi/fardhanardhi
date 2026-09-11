@@ -40,35 +40,35 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
 <hr>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-367%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2031%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 15 mins (85.88%)
+⏱ AI Coding Time: 28 hrs 52 mins (85.56%)
 
-✍️ 15,227 lines written by AI, 28 lines written by hand (99.82% AI-written)
+✍️ 13,215 lines written by AI, 84 lines written by hand (99.37% AI-written)
 
-🔤 9,905,256 Input Tokens, 944,634 Output Tokens
+🔤 10,164,964 Input Tokens, 1,049,228 Output Tokens
 
-💵 $184.52 Estimated AI Cost This Week
+💵 $184.29 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 392 AI Prompts
+🧠 31 AI Sessions, 397 AI Prompts
 
-Sonnet                   15,024 lines        ████████████████████████░   97.99 % 
-Opus                     197 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Haiku                    111 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Sonnet                   12,206 lines        ███████████████████████░░   91.18 % 
+Haiku                    984 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Opus                     197 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📚 Verbose Prompter — average 1,709 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.3% of changed lines were hand-edited
+🤖 AI-Driven — 99.37% of written lines came from AI
+📚 Verbose Prompter — average 1,508 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 27.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 21:01:18 UTC
+ Last Updated on 11/09/2026 21:06:05 UTC
 <!--END_SECTION:waka-->
 
 <hr>
