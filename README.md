@@ -40,35 +40,35 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
 <hr>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-377%20hrs%2046%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 8 mins (84.59%)
+⏱ AI Coding Time: 28 hrs 51 mins (81.94%)
 
-✍️ 11,733 lines written by AI, 147 lines written by hand (98.76% AI-written)
+✍️ 11,072 lines written by AI, 151 lines written by hand (98.65% AI-written)
 
-🔤 9,265,097 Input Tokens, 988,747 Output Tokens
+🔤 13,546,398 Input Tokens, 1,160,240 Output Tokens
 
-💵 $170.19 Estimated AI Cost This Week
+💵 $228.19 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 387 AI Prompts
+🧠 36 AI Sessions, 403 AI Prompts
 
-Sonnet                   10,720 lines        ███████████████████████░░   90.08 % 
-Haiku                    984 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Opus                     197 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Sonnet                   15,321 lines        ███████████████████████░░   92.75 % 
+Haiku                    984 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Opus                     213 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.76% of written lines came from AI
-📄 Detailed Prompter — average 1,404 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 30.37% of changed lines were hand-edited
+🤖 AI-Driven — 98.65% of written lines came from AI
+📄 Detailed Prompter — average 1,080 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 23.92% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 20:43:37 UTC
+ Last Updated on 13/09/2026 20:58:41 UTC
 <!--END_SECTION:waka-->
 
 <hr>
