@@ -40,35 +40,35 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
 <hr>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-377%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-383%20hrs-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 51 mins (81.94%)
+⏱ AI Coding Time: 25 hrs 59 mins (77.79%)
 
-✍️ 11,072 lines written by AI, 151 lines written by hand (98.65% AI-written)
+✍️ 7,049 lines written by AI, 246 lines written by hand (96.63% AI-written)
 
-🔤 13,546,398 Input Tokens, 1,160,240 Output Tokens
+🔤 13,730,081 Input Tokens, 1,116,736 Output Tokens
 
-💵 $228.19 Estimated AI Cost This Week
+💵 $237.59 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 403 AI Prompts
+🧠 38 AI Sessions, 349 AI Prompts
 
-Sonnet                   15,321 lines        ███████████████████████░░   92.75 % 
-Haiku                    984 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Opus                     213 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Sonnet                   11,667 lines        ███████████████████████░░   90.69 % 
+Haiku                    984 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Opus                     213 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.65% of written lines came from AI
-📄 Detailed Prompter — average 1,080 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 23.92% of changed lines were hand-edited
+🤖 AI-Driven — 96.63% of written lines came from AI
+📄 Detailed Prompter — average 804 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 29.47% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 20:58:41 UTC
+ Last Updated on 14/09/2026 21:55:58 UTC
 <!--END_SECTION:waka-->
 
 <hr>
