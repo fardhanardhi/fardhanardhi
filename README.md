@@ -45,15 +45,15 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 58 mins (68.82%)
+⏱ AI Coding Time: 5 hrs 56 mins (68.69%)
 
 ✍️ 1,075 lines written by AI, 99 lines written by hand (91.57% AI-written)
 
-🔤 2,758,004 Input Tokens, 289,923 Output Tokens
+🔤 2,618,847 Input Tokens, 274,011 Output Tokens
 
-💵 $28.04 Estimated AI Cost This Week
+💵 $27.47 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 93 AI Prompts
+🧠 18 AI Sessions, 91 AI Prompts
 
 Opus                     1,269 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -61,13 +61,13 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 91.57% of written lines came from AI
-📚 Verbose Prompter — average 1,730 characters per prompt
+📚 Verbose Prompter — average 1,726 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 18.65% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 21:54:13 UTC
+ Last Updated on 11/10/2026 22:10:30 UTC
 <!--END_SECTION:waka-->
 
 <hr>
