@@ -40,34 +40,34 @@ Mobile & front-end developer, living in Indonesia. I mostly work with JavaScript
 <hr>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-457%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-457%20hrs%2054%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 7 mins (63.92%)
+⏱ AI Coding Time: 10 hrs 33 mins (63.73%)
 
-✍️ 2,888 lines written by AI, 69 lines written by hand (97.67% AI-written)
+✍️ 2,871 lines written by AI, 69 lines written by hand (97.65% AI-written)
 
-🔤 3,654,125 Input Tokens, 518,892 Output Tokens
+🔤 3,308,188 Input Tokens, 484,162 Output Tokens
 
-💵 $41.88 Estimated AI Cost This Week
+💵 $39.50 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 200 AI Prompts
+🧠 25 AI Sessions, 185 AI Prompts
 
-Opus                     2,957 lines         █████████████████████████   100.00 % 
+Opus                     2,920 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.67% of written lines came from AI
-📚 Verbose Prompter — average 1,678 characters per prompt
+🤖 AI-Driven — 97.65% of written lines came from AI
+📚 Verbose Prompter — average 1,616 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 10.45% of changed lines were hand-edited
+🚀 High AI Trust — 10.4% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 21:27:04 UTC
+ Last Updated on 17/10/2026 20:46:41 UTC
 <!--END_SECTION:waka-->
 
 <hr>
